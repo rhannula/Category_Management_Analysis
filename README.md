@@ -92,6 +92,6 @@ For this project, we have access to only 1 set of data that is in excel format a
 
 The finished Analysis Report is 1 page dashboard consisting of a Matrix dashboard where all of the structured segmented metrics have been compiled, distincting from each by assigned colours. The dashboard can be filtered throughout different timelines, segments, brands and individual SKUs, ensuring that the criterias of deliverables are being met up.
 
-*You can see the finished dashboard [HERE](www.google.com) or by clicking the picture below.*
+*You can see the finished dashboard [HERE](https://app.powerbi.com/groups/me/reports/9f93414f-4263-42a8-b19c-0f97bf773d08/ReportSection190a24d7dc419bc94d23?redirectedFromSignup=1) or by clicking the picture below.*
 
-![](https://raw.githubusercontent.com/rhannula/Category_Management_Analysis/main/Images/Screenshot%202022-03-28%20211447.png)
+[![](https://raw.githubusercontent.com/rhannula/Category_Management_Analysis/main/Images/Screenshot%202022-03-28%20211447.png)](https://app.powerbi.com/groups/me/reports/9f93414f-4263-42a8-b19c-0f97bf773d08/ReportSection190a24d7dc419bc94d23?redirectedFromSignup=1)
