@@ -4,12 +4,12 @@
 
 The business request for this data analyst project was an executive analysis of a footwear category.  Based on the request of writing a semiannual category strategy plan, the objective of this project is to observe the structure of the strategic planning, the key components and other macro trends. Tools used in this project are Microsoft Excel and Power BI.
 
-This project will analyse a category in the short to medium term which is 6 to 12 months by using a total of 23 different metrics which have been segmented into 4 different divisions:
+This project will analyse a category in the short to medium term which is **6 months** by using a total of **23 different metrics** which have been segmented into 4 different divisions:
 
-Value Size, Share & Growth of Category, and Segments (6) - To showcase the state of the category. This is in ** light blue **
-Ranging, Share of SKUs and Distribution (5) - Amount of SKUs per subcategory and its distribution between various locations. This is in ** light purple **
-Pricing (6) - This is in ** grey blue **
-Promotional Activity (6) - Units that are sold on promotion. This is in ** yellow **
+- Value Size, Share & Growth of Category, and Segments (6) - *To showcase the state of the category. This is in* **light blue**
+- Ranging, Share of SKUs and Distribution (5) - *Amount of SKUs per subcategory and its distribution between various locations. This is in* **light purple**
+- Pricing (6) - *This is in* **grey blue**
+- Promotional Activity (6) - *Units that are sold on promotion. This is in* **yellow**
 
 ## Structure of the category strategy:
 
