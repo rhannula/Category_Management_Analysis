@@ -47,7 +47,7 @@ This project will analyse a category in the short to medium term which is **6 mo
 
 ## Data cleansing and transformation
 
-For this project, we have access to only 1 set of data that is in excel format and complies with both facts and dimensions datasets and you can find the raw data [HERE](https://github.com/rhannula/Category_Management_Analysis/blob/main/RAW_data/sales_total%20-%20ORIGINAL.xlsx). (*To reduce the amount of redundancy, the master table had to be transformed into a facts table that is supported with 5 different dimensions: ProductDIM, DiscountDIM, DateDIM, CityDIM and BrandDIM.*)
+For this project, we have access to only 1 set of data that is in excel format and complies with both facts and dimensions datasets and you can find the raw data [HERE](https://github.com/rhannula/Category_Management_Analysis/blob/main/RAW_data/CategoryFactTable.xlsx). (*To reduce the amount of redundancy, the master table had to be transformed into a facts table that is supported with 5 different dimensions: ProductDIM, DiscountDIM, DateDIM, CityDIM and BrandDIM.*)
 
 
 *The following activities were performed in order to create the dimensions table (ProductDIM, DIscountDIM, CityDIM and BrandDIM):*
