@@ -75,11 +75,16 @@ For this project, we have access to only 1 set of data that is in excel format a
 - Create a custom column as “*Month Name*” and the following M-query was placed: `=Date.MonthName([Date])`
 - Create a custom column as “*Short Month Name*” and the following M-query was placed: `=Text.Start([Month Name],3)`
 
+![](https://github.com/rhannula/Category_Management_Analysis/blob/main/Images/Screenshot%202022-03-29%20024807.png) ![](https://github.com/rhannula/Category_Management_Analysis/blob/main/Images/Screenshot%202022-03-29%20024847.png)
+![](https://github.com/rhannula/Category_Management_Analysis/blob/main/Images/Screenshot%202022-03-29%20024918.png)
+
 
 
 ## Data Model
 
 *Below is a screenshot of the data model after cleansed and prepared tables were transited into Power BI. The schema blueprint used in this particular project is **Snowflake Schema**, which is an extension of a Star Schema that adds additional dimensions, usually representing hierarchies.*
+
+![](https://github.com/rhannula/Category_Management_Analysis/blob/main/Images/Screenshot%202022-03-28%20210729.png)
 
 
 ## FMCG Category Management Analysis Dashboard
@@ -87,3 +92,5 @@ For this project, we have access to only 1 set of data that is in excel format a
 The finished Analysis Report is 1 page dashboard consisting of a Matrix dashboard where all of the structured segmented metrics have been compiled, distincting from each by assigned colours. The dashboard can be filtered throughout different timelines, segments, brands and individual SKUs, ensuring that the criterias of deliverables are being met up.
 
 *You can see the finished dashboard [HERE](www.google.com) or by clicking the picture below.*
+
+![](https://github.com/rhannula/Category_Management_Analysis/blob/main/Images/Screenshot%202022-03-28%20211447.png)
