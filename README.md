@@ -79,7 +79,7 @@ For this project, we have access to only 1 set of data that is in excel format a
 
 ## Data Model
 
-*Below is a screenshot of the data model after cleansed and prepared tables were transited into Power BI. The schema blueprint used in this particular project is Snowflake Schema, which is an extension of a Star Schema that adds additional dimensions, usually representing hierarchies.*
+*Below is a screenshot of the data model after cleansed and prepared tables were transited into Power BI. The schema blueprint used in this particular project is **Snowflake Schema**, which is an extension of a Star Schema that adds additional dimensions, usually representing hierarchies.*
 
 
 ## FMCG Category Management Analysis Dashboard
