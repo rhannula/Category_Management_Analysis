@@ -75,6 +75,7 @@ For this project, we have access to only 1 set of data that is in excel format a
 - Create a custom column as “*Month Name*” and the following M-query was placed: `=Date.MonthName([Date])`
 - Create a custom column as “*Short Month Name*” and the following M-query was placed: `=Text.Start([Month Name],3)`
 
+![](https://github.com/rhannula/Category_Management_Analysis/blob/main/Images/Screenshot%202022-03-29%20031518.png)
 ![](https://github.com/rhannula/Category_Management_Analysis/blob/main/Images/Screenshot%202022-03-29%20024807.png) ![](https://github.com/rhannula/Category_Management_Analysis/blob/main/Images/Screenshot%202022-03-29%20024847.png)
 ![](https://github.com/rhannula/Category_Management_Analysis/blob/main/Images/Screenshot%202022-03-29%20024918.png)
 
