@@ -75,9 +75,9 @@ For this project, we have access to only 1 set of data that is in excel format a
 - Create a custom column as “*Month Name*” and the following M-query was placed: `=Date.MonthName([Date])`
 - Create a custom column as “*Short Month Name*” and the following M-query was placed: `=Text.Start([Month Name],3)`
 
-![](/Images/Screenshot%202022-03-29%20031518.png)
-![](/Images/Screenshot%202022-03-29%20024807.png) ![](/Images/Screenshot%202022-03-29%20024847.png)
-![](/Images/Screenshot%202022-03-29%20024918.png)
+![](https://github.com/rhannula/Category_Management_Analysis/blob/main/Images/Screenshot%202022-03-29%20031518.png)
+![](https://github.com/rhannula/Category_Management_Analysis/blob/main/Images/Screenshot%202022-03-29%20024807.png) ![](https://github.com/rhannula/Category_Management_Analysis/blob/main/Images/Screenshot%202022-03-29%20024847.png)
+![](https://github.com/rhannula/Category_Management_Analysis/blob/main/Images/Screenshot%202022-03-29%20024918.png)
 
 
 
@@ -85,7 +85,7 @@ For this project, we have access to only 1 set of data that is in excel format a
 
 *Below is a screenshot of the data model after cleansed and prepared tables were transited into Power BI. The schema blueprint used in this particular project is **Snowflake Schema**, which is an extension of a Star Schema that adds additional dimensions, usually representing hierarchies.*
 
-![](/Images/Screenshot%202022-03-28%20210729.png)
+![](https://github.com/rhannula/Category_Management_Analysis/blob/main/Images/Screenshot%202022-03-28%20210729.png)
 
 
 ## FMCG Category Management Analysis Dashboard
@@ -94,4 +94,4 @@ The finished Analysis Report is 1 page dashboard consisting of a Matrix dashboar
 
 *You can see the finished dashboard [HERE](www.google.com) or by clicking the picture below.*
 
-![](/Images/Screenshot%202022-03-28%20211447.png)
+![](https://github.com/rhannula/Category_Management_Analysis/blob/main/Images/Screenshot%202022-03-28%20211447.png)
